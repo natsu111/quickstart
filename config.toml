@@ -1,4 +1,4 @@
 baseURL = "https://confident-hypatia-2a3e72.netlify.com/"
 languageCode = "ja"
 title = "Hugoのサイト123"
-theme = "ananke"
+theme = "blackburn"
